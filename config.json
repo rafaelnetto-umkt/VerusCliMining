@@ -1,22 +1,22 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
+		"name": "CelPoolPrincipal",
         	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
+		"name": "CelPoolFailover1",
         	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover2",
+		"name": "CelPoolFailover2",
         	"url": "stratum+tcp://na.luckpool.net:3957",
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "RCJsKc2GM3CqP8JWKYLaBD9ZmLG5fVESDN.PHONE_FARM",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
